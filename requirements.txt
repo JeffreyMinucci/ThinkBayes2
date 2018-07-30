@@ -1,4 +1,3 @@
-thinkplot
 numpy
 pandas
 scipy
